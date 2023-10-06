@@ -10,8 +10,6 @@
   pode ser utilizado em diversos contextos, como hospitais, clínicas, cuidados domiciliares e 
   até mesmo por indivíduos que desejam acompanhar sua própria saúde.
 
-🚧  Em desenvolvimento . . .
-
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
 </h4>
