@@ -1,7 +1,7 @@
 # CuidaFácil
 
 
-![Capa do Projeto](./assets/prev-image.png)
+![Capa do Projeto](https://cdnsjengenhariae.nuneshost.com/wp-content/uploads/2021/02/medical-1024x570-1.png)
 
 # Sobre o Projeto
   CuidaFácil será um aplicativo que irá auxiliar o monitoramento de pacientes, ou seja, 
