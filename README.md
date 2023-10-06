@@ -1,7 +1,7 @@
 # CuidaFácil
 
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](./assets/prev-image.gif")
 
 # Sobre o Projeto
   CuidaFácil será um aplicativo que irá auxiliar o monitoramento de pacientes, ou seja, 
