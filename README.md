@@ -1,7 +1,7 @@
 # CuidaFácil
 
 
-![Capa do Projeto](./assets/prev-image.gif")
+![Capa do Projeto](./assets/prev-image.png")
 
 # Sobre o Projeto
   CuidaFácil será um aplicativo que irá auxiliar o monitoramento de pacientes, ou seja, 
