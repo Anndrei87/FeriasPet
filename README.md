@@ -1,4 +1,4 @@
-# CuidaFácil
+# FeriasPet
 
 ![Capa do Projeto](https://ipatas.com.br/wp-content/uploads/2022/02/hotel-pra-cachorro-1024x768.jpg)
 
