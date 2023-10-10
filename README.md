@@ -1,14 +1,14 @@
 # CuidaFácil
 
-
 ![Capa do Projeto](https://ipatas.com.br/wp-content/uploads/2022/02/hotel-pra-cachorro-1024x768.jpg)
 
 # Sobre o Projeto
-  CuidaFácil será um aplicativo que irá auxiliar o monitoramento de pacientes, ou seja, 
-  é um aplicativo que permite aos pacientes monitorarem sua própria saúde e bem-estar, 
-  ou que permite aos médicos monitorarem seus pacientes à distância. Esse tipo de aplicativo 
-  pode ser utilizado em diversos contextos, como hospitais, clínicas, cuidados domiciliares e 
-  até mesmo por indivíduos que desejam acompanhar sua própria saúde.
+  FeriasPet será um aplicativo que irá auxiliar com a busca de hoteis para os pets. Um aplicativo para hotéis de 
+  cachorro desempenha um papel fundamental na modernização e eficiência da gestão de tais estabelecimentos. 
+  Em resumo, um aplicativo para hotéis de cachorro é uma ferramenta poderosa que aprimora a experiência tanto 
+  para os donos de cães quanto para os estabelecimentos de hospedagem canina. Facilita a gestão, melhora a comunicação e 	 
+  proporciona um nível mais alto de cuidado e segurança para os animais de estimação, tornando-se essencial para 
+  o sucesso e a eficiência desses negócios.
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
