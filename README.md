@@ -1,7 +1,7 @@
 # CuidaFácil
 
 
-![Capa do Projeto](https://cdnsjengenhariae.nuneshost.com/wp-content/uploads/2021/02/medical-1024x570-1.png)
+![Capa do Projeto](https://www.melhoresdestinos.com.br/wp-content/uploads/2021/04/cachorro-hotel-capa.jpg)
 
 # Sobre o Projeto
   CuidaFácil será um aplicativo que irá auxiliar o monitoramento de pacientes, ou seja, 
