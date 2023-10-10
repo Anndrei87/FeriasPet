@@ -3,7 +3,7 @@
 ![Capa do Projeto](https://ipatas.com.br/wp-content/uploads/2022/02/hotel-pra-cachorro-1024x768.jpg)
 
 # Sobre o Projeto
-  FeriasPet será um aplicativo que irá auxiliar com a busca de hoteis para os pets. Um aplicativo para hotéis de 
+  FeriasPet será um aplicativo que irá auxiliar com a busca de hoteis para se acomodar com os pets. Um aplicativo para hotéis de 
   cachorro desempenha um papel fundamental na modernização e eficiência da gestão de tais estabelecimentos. 
   Em resumo, um aplicativo para hotéis de cachorro é uma ferramenta poderosa que aprimora a experiência tanto 
   para os donos de cães quanto para os estabelecimentos de hospedagem canina. Facilita a gestão, melhora a comunicação e 	 
