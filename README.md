@@ -1,7 +1,7 @@
 # CuidaFácil
 
 
-![Capa do Projeto](https://www.melhoresdestinos.com.br/wp-content/uploads/2021/04/cachorro-hotel-capa.jpg)
+![Capa do Projeto](https://ipatas.com.br/wp-content/uploads/2022/02/hotel-pra-cachorro-1024x768.jpg)
 
 # Sobre o Projeto
   CuidaFácil será um aplicativo que irá auxiliar o monitoramento de pacientes, ou seja, 
