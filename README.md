@@ -15,10 +15,10 @@ em contato e favoritar os hotéis pesquisados.
   
 
 # Características do Projeto
-FeriasPet será um aplicativo que irá auxiliar com a busca de hoteis para se acomodar com os pets. Um aplicativo para hotéis de 
-cachorro desempenha um papel fundamental na modernização e eficiência da gestão de tais estabelecimentos. 
-Em resumo, um aplicativo para hotéis de cachorro é uma ferramenta poderosa que aprimora a experiência tanto 
-para os donos de cães quanto para os estabelecimentos de hospedagem canina. Facilita a gestão, melhora a comunicação e 	 
+FeriasPet será um aplicativo que irá auxiliar com a busca de hoteis para se acomodar com os pets. Um aplicativo para hotéis de
+pets desempenha um papel fundamental na modernização e eficiência da gestão de tais estabelecimentos. 
+Em resumo, um aplicativo para hotéis de pets é uma ferramenta poderosa que aprimora a experiência tanto 
+para os donos de pets quanto para os estabelecimentos de hospedagem de animais. Facilita a gestão, melhora a comunicação e 	 
 proporciona um nível mais alto de cuidado e segurança para os animais de estimação, tornando-se essencial para 
 o sucesso e a eficiência desses negócios. 	
 
