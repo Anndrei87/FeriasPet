@@ -1,6 +1,6 @@
 # FeriasPet
 
-<img src="./assets/5249030.jpg" style="width: 100%"/>
+<img src="./assets/nos-somos-FeriasPet.png" style="width: 100%"/>
 
 # Sobre o Projeto
   FeriasPet será um aplicativo que irá auxiliar com a busca de hoteis para se acomodar com os pets. Um aplicativo para hotéis de 
