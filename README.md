@@ -3,12 +3,16 @@
 <img src="./assets/nos-somos-FeriasPet.png" style="width: 100%"/>
 
 # Sobre o Projeto
-  FeriasPet será um aplicativo que irá auxiliar com a busca de hoteis para se acomodar com os pets. Um aplicativo para hotéis de 
-  cachorro desempenha um papel fundamental na modernização e eficiência da gestão de tais estabelecimentos. 
-  Em resumo, um aplicativo para hotéis de cachorro é uma ferramenta poderosa que aprimora a experiência tanto 
-  para os donos de cães quanto para os estabelecimentos de hospedagem canina. Facilita a gestão, melhora a comunicação e 	 
-  proporciona um nível mais alto de cuidado e segurança para os animais de estimação, tornando-se essencial para 
-  o sucesso e a eficiência desses negócios.
+Nos dias atuais tendo em vista um crescimento exponencial de pessoas adquirindo ou adotando novos Pets, 
+viemos trazer a melhor solução para quem não gosta de se ausentar de seu pequeno companheiro, mas mesmo
+assim adora viajar pelo mundo! pra essas pessoas criamos o Férias Pet! um aplicativo voltado única e 
+exclusivamente para quem ama viajar e ama também os animais! 
+
+Temos como principal objetivo funcionar como um buscador de hotéis para destino de viagem do usuário, 
+onde encontrará uma listagem de hotéis que aceitem Pet, além de auxiliar com dicas para o 
+transporte e estadia com melhor qualidade e segurança para o Pet. Havendo também, a possibilidade de avaliar, entrar 
+em contato e favoritar os hotéis pesquisados.
+  
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -16,9 +20,13 @@
 
 # Características do Projeto
   
-
 <h4 align="center"> 
-	🚧  Em desenvolvimento . . .
+	FeriasPet será um aplicativo que irá auxiliar com a busca de hoteis para se acomodar com os pets. Um aplicativo para hotéis de 
+	cachorro desempenha um papel fundamental na modernização e eficiência da gestão de tais estabelecimentos. 
+	Em resumo, um aplicativo para hotéis de cachorro é uma ferramenta poderosa que aprimora a experiência tanto 
+	para os donos de cães quanto para os estabelecimentos de hospedagem canina. Facilita a gestão, melhora a comunicação e 	 
+	proporciona um nível mais alto de cuidado e segurança para os animais de estimação, tornando-se essencial para 
+	o sucesso e a eficiência desses negócios.
 </h4>
 
 # Índice/Sumário
