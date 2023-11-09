@@ -55,9 +55,7 @@ o sucesso e a eficiência desses negócios.
 
 # Autores
 
-<div style="border-radius: 50%">
-	![GitHub profile picture](https://github.com/Anndrei87.png)
-</div>
+<img src="https://avatars.githubusercontent.com/u/83313975?v=4" style="border-radius: 50%"/>
 
 
 
