@@ -55,7 +55,11 @@ o sucesso e a eficiência desses negócios.
 
 # Autores
 
-![GitHub profile picture](https://github.com/Anndrei87.png)
+<div style="border-radius: 50%">
+	![GitHub profile picture](https://github.com/Anndrei87.png)
+</div>
+
+
 
 # Protótipos
 	- High-fi
