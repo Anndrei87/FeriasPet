@@ -55,7 +55,7 @@ o sucesso e a eficiência desses negócios.
 
 # Autores
 
-<img src="https://avatars.githubusercontent.com/u/83313975?v=4" style="border-radius: 50%; width: 300px; height: 100px"/>
+<img src="https://avatars.githubusercontent.com/u/83313975?v=4" style="border-radius: 100%; width: 100px; height: 100px"/>
 
 
 
