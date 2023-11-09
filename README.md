@@ -17,28 +17,49 @@
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
-* [Sumário](#índice/sumário)
+* [Características do Projeto](#caracteristicas)
 * [Requisitos Funcionais](#requisitos-funcionais)
-* [Tecnologias Usadas](#tecnologias-usadas)
-* [Contribuição](#contribuição)
+* [Requisitos Não Funcionais](#requisitos-nao-funcionais)
+* [Personas](#personas)
+* [Cenários](#cenarios)
 * [Autores](#autores)
+* [Protótipos](#prototipos)
+* [Avaliação Heurística de Nielson e SUS](#avaliacao)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
+* [Considerações Finais](#consideracoes)
 
+# Características do Projeto
+
+🚧  Em desenvolvimento . . .
 
 # Requisitos Funcionais 
 
 🚧  Em desenvolvimento . . .
 
-# Tecnologias Usadas
+# Requisitos Não Funcionais 
 
-🚧  A decidir . . .
+🚧  Em desenvolvimento . . .
 
-# Contribuição
+# Personas
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
+🚧  Em desenvolvimento . . .
+
+# Cenários
+
+🚧  Em desenvolvimento . . .
 
 # Autores
+
+🚧  Em desenvolvimento . . .
+
+# Protótipos
+	<p>- High-fi</p>
+ 	<p>- Low-fi</p>
+
+🚧  Ambos em desenvolvimento . . .
+
+# Avaliação Heurística de Nielson e SUS
 
 🚧  Em desenvolvimento . . .
 
@@ -47,5 +68,9 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
 
 # Agradecimentos
+
+🚧  Em desenvolvimento . . .
+
+# Considerações Finais
 
 🚧  Em desenvolvimento . . .
