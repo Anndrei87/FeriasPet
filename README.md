@@ -54,8 +54,8 @@ o sucesso e a eficiência desses negócios.
 🚧  Em desenvolvimento . . .
 
 # Autores
+<a href="#"><img src="https://avatars.githubusercontent.com/u/83313975?v=4" style="border-radius: 100%; width: 100px; height: 100px"/></a>
 
-<img src="https://avatars.githubusercontent.com/u/83313975?v=4" style="border-radius: 100%; width: 100px; height: 100px"/>
 
 
 
