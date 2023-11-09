@@ -25,7 +25,7 @@ o sucesso e a eficiência desses negócios.
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
-* [Características do Projeto](#caracteristicas)
+* [Características do Projeto](#Características-do-Projeto)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Requisitos Não Funcionais](#Requisitos-Não-Funcionais)
 * [Personas](#personas)
