@@ -1,6 +1,6 @@
 # FeriasPet
 
-![Capa do Projeto](https://ipatas.com.br/wp-content/uploads/2022/02/hotel-pra-cachorro-1024x768.jpg)
+<img src="./assets/5249030.jpg" style="width: 100%"/>
 
 # Sobre o Projeto
   FeriasPet será um aplicativo que irá auxiliar com a busca de hoteis para se acomodar com os pets. Um aplicativo para hotéis de 
