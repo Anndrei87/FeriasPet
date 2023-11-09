@@ -37,10 +37,6 @@ o sucesso e a eficiência desses negócios.
 * [Agradecimentos](#agradecimentos)
 * [Considerações Finais](#consideracoes)
 
-# Características do Projeto
-
-🚧  Em desenvolvimento . . .
-
 # Requisitos Funcionais 
 
 🚧  Em desenvolvimento . . .
@@ -59,7 +55,7 @@ o sucesso e a eficiência desses negócios.
 
 # Autores
 
-🚧  Em desenvolvimento . . .
+![GitHub profile picture](https://github.com/Anndrei87.png)
 
 # Protótipos
 	- High-fi
