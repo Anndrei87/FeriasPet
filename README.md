@@ -14,6 +14,13 @@
 	🚧  Em desenvolvimento . . .
 </h4>
 
+# Características do Projeto
+  
+
+<h4 align="center"> 
+	🚧  Em desenvolvimento . . .
+</h4>
+
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
@@ -24,7 +31,7 @@
 * [Cenários](#cenarios)
 * [Autores](#autores)
 * [Protótipos](#prototipos)
-* [Avaliação Heurística de Nielson e SUS](#avaliacao)
+* [Avaliação Heurística de Nielson e SUS](#avaliacao-heuristica-de-nielson-e-SUS)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
 * [Considerações Finais](#consideracoes)
