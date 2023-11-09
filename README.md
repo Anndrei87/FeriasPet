@@ -61,8 +61,8 @@
 🚧  Em desenvolvimento . . .
 
 # Protótipos
-	<p>- High-fi</p>
- 	<p>- Low-fi</p>
+	- High-fi
+ 	- Low-fi
 
 🚧  Ambos em desenvolvimento . . .
 
