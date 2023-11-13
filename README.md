@@ -45,7 +45,6 @@ o sucesso e a eficiência desses negócios.
 Requisitos não funcionais (RNFs) são as restrições impostas a um sistema que definem seus atributos de qualidade. Os RNFs 
 são importantes porque eles determinam como o sistema irá se comportar e atender às expectativas dos usuários ou dos stakeholders.
 
-&nbsp;
 Abaixo será listado os RNFs do projeto:
 
 <ul>
