@@ -51,8 +51,47 @@ o sucesso e a eficiência desses negócios.
 		  <p>Descrição: Permitir login apenas de usuários cadastrados.</p>
 		  <p>Prioridade: Muito Alta</p>
 	</li>
-	<li>2</li>
-	<li>3</li>
+	<li>
+		RNF002
+		  <p>Origem: API</p>
+		  <p>Nome: Cadastro de usuários</p>
+		  <p>Descrição: Permitir que o usuário crie 
+				uma conta, e checar se já 
+				tem um usuário com o 
+				mesmo apelido antes de 
+				cadastrar.
+		  </p>
+		  <p>Prioridade: Muito Alta</p>
+	</li>
+	<li>
+		RNF003
+		  <p>Origem: Mobile</p>
+		  <p>Nome: Executável plataformas Android e IOS</p>
+		  <p>Descrição: O aplicativo deve ser 
+				desenvolvido para rodar 
+				em plataformas 
+				Android/IOS
+		  </p>
+		  <p>Prioridade: Muito Alta</p>
+	</li>
+	<li>
+		RNF004
+		  <p>Origem: Framework</p>
+		  <p>Nome: Utilizar React Native com expo ou Flutter/Dart</p>
+		  <p>Descrição: Utilizar o framework para criar a aplicação mobile</p>
+		  <p>Prioridade: Muito Alta</p>
+	</li>
+	<li>
+		RNF005
+		  <p>Origem: Mobile</p>
+		  <p>Nome: Validar internet</p>
+		  <p>Descrição: Permitir o modo 
+				multiplayer somente se o 
+				usuário estiver conectado 
+				a uma rede de internet
+		  </p>
+		  <p>Prioridade: Muito Alta</p>
+	</li>
 </ul>
 
 # Personas
