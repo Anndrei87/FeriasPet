@@ -51,6 +51,7 @@ o sucesso e a eficiência desses negócios.
 		  <p>Descrição: Permitir login apenas de usuários cadastrados.</p>
 		  <p>Prioridade: Muito Alta</p>
 	</li>
+	&nbsp;
 	<li>
 		<strong>RNF002</strong>
 		  <p>Origem: API</p>
@@ -63,6 +64,7 @@ o sucesso e a eficiência desses negócios.
 		  </p>
 		  <p>Prioridade: Muito Alta</p>
 	</li>
+	&nbsp;
 	<li>
 		<strong>RNF003</strong>
 		  <p>Origem: Mobile</p>
@@ -74,6 +76,7 @@ o sucesso e a eficiência desses negócios.
 		  </p>
 		  <p>Prioridade: Muito Alta</p>
 	</li>
+	&nbsp;
 	<li>
 		<strong>RNF004</strong>
 		  <p>Origem: Framework</p>
@@ -81,19 +84,17 @@ o sucesso e a eficiência desses negócios.
 		  <p>Descrição: Utilizar o framework para criar a aplicação mobile</p>
 		  <p>Prioridade: Muito Alta</p>
 	</li>
+	&nbsp;
 	<li>
 		<strong>RNF005</strong>
-		&nbsp;
-		<div style="margin-left: 30px;">
-			  <p>Origem: Mobile</p>
-			  <p>Nome: Validar internet</p>
-			  <p>Descrição: Permitir o modo 
-					multiplayer somente se o 
-					usuário estiver conectado 
-					a uma rede de internet
-			  </p>
-			  <p>Prioridade: Muito Alta</p>
-		</div>
+		  <p>Origem: Mobile</p>
+		  <p>Nome: Validar internet</p>
+		  <p>Descrição: Permitir o modo
+    				multiplayer somente se o 
+				usuário estiver conectado 
+				a uma rede de internet		
+		  </p>
+		  <p>Prioridade: Muito Alta</p>  
 	</li>
 </ul>
 
