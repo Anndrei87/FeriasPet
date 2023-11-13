@@ -128,19 +128,16 @@ Abaixo será listado os RNFs do projeto:
 🚧  Em desenvolvimento . . .
 
 # Autores
-<div style="display: flex; flex-direction: row;" >
+<div style="display: flex; justify-content: space-between; align-items: center;"> >
 	<a href="#">
 		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
 	</a>
 	&nbsp;
 	&nbsp;
 	&nbsp;
-	<div>
-		<a href="#" style="margin-right: 30px">
-			<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
-		</a>
-			<span>asdasd</span>
-	</div>
+	<a href="#" style="margin-right: 30px">
+		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
+	</a>
 	&nbsp;
 	&nbsp;
 	&nbsp;		
