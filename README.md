@@ -129,9 +129,12 @@ Abaixo será listado os RNFs do projeto:
 
 # Autores
 <div > 
-	- [Andrei Moreira](https://github.com/Anndrei87)
-	- Add your clickable username here. It should point to your GitHub account. 
-	</div>
+	<a href="[https://github.com/Seu-perfil](https://github.com/Anndrei87)" style="text-decoration: none;">
+	<img style="border-radius: 50%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
+	<br />
+	<span> Feito com ❤️ por Seu Nome 👋 Entre em contato! </span> 
+	</a> 
+</div>
 
 # Protótipos
 	- High-fi
