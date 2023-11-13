@@ -156,6 +156,25 @@ Abaixo será listado os RNFs do projeto:
 	<a href="#" style="margin-right: 30px;">
 		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
 	</a>
+ 	&nbsp;
+	&nbsp;
+	&nbsp;
+	<a href="#" style="margin-right: 30px;">
+		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
+	</a>
+ 	&nbsp;
+	&nbsp;
+	&nbsp;
+	<a href="#" style="margin-right: 30px;">
+		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
+	</a>
+ 	&nbsp;
+	&nbsp;
+	&nbsp;
+	<a href="#" style="margin-right: 30px;">
+		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
+	</a>
+ 	
 
 </div>
 
