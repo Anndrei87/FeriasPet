@@ -52,7 +52,7 @@ o sucesso e a eficiência desses negócios.
 		  <p>Prioridade: Muito Alta</p>
 	</li>
 	<li>
-		RNF002
+		<strong>RNF002</strong>
 		  <p>Origem: API</p>
 		  <p>Nome: Cadastro de usuários</p>
 		  <p>Descrição: Permitir que o usuário crie 
@@ -64,7 +64,7 @@ o sucesso e a eficiência desses negócios.
 		  <p>Prioridade: Muito Alta</p>
 	</li>
 	<li>
-		RNF003
+		<strong>RNF003</strong>
 		  <p>Origem: Mobile</p>
 		  <p>Nome: Executável plataformas Android e IOS</p>
 		  <p>Descrição: O aplicativo deve ser 
@@ -75,22 +75,24 @@ o sucesso e a eficiência desses negócios.
 		  <p>Prioridade: Muito Alta</p>
 	</li>
 	<li>
-		RNF004
+		<strong>RNF004</strong>
 		  <p>Origem: Framework</p>
 		  <p>Nome: Utilizar React Native com expo ou Flutter/Dart</p>
 		  <p>Descrição: Utilizar o framework para criar a aplicação mobile</p>
 		  <p>Prioridade: Muito Alta</p>
 	</li>
 	<li>
-		RNF005
-		  <p>Origem: Mobile</p>
-		  <p>Nome: Validar internet</p>
-		  <p>Descrição: Permitir o modo 
-				multiplayer somente se o 
-				usuário estiver conectado 
-				a uma rede de internet
-		  </p>
-		  <p>Prioridade: Muito Alta</p>
+		<strong>RNF005</strong>
+		<div style="margin-right: 30px;">
+			  <p>Origem: Mobile</p>
+			  <p>Nome: Validar internet</p>
+			  <p>Descrição: Permitir o modo 
+					multiplayer somente se o 
+					usuário estiver conectado 
+					a uma rede de internet
+			  </p>
+			  <p>Prioridade: Muito Alta</p>
+		</div>
 	</li>
 </ul>
 
