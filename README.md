@@ -110,7 +110,7 @@ Abaixo será listado os RNFs do projeto:
 	</li>
 	&nbsp;
 	<li>
-		<strong>RNF001</strong>
+		<strong>RNF007</strong>
 		  <p>Origem: Aplicação</p>
 		  <p>Nome: Segurança</p>
 		  <p>Descrição: O sistema deve proteger os dados dos usuários contra acesso não autorizado.</p>
