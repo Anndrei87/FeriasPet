@@ -46,10 +46,10 @@ o sucesso e a eficiência desses negócios.
 <ul>
 	<li>
 		RNF001
-		&nbsp;&nbsp;<p>Origem: API</p>
-		&nbsp;&nbsp;<p>Nome: Login dos usuários</p>
-		&nbsp;&nbsp;<p>Descrição: Permitir login apenas de usuários cadastrados.</p>
-		&nbsp;&nbsp;<p>Prioridade: Muito Alta</p>
+		  <p>Origem: API</p>
+		  <p>Nome: Login dos usuários</p>
+		  <p>Descrição: Permitir login apenas de usuários cadastrados.</p>
+		  <p>Prioridade: Muito Alta</p>
 	</li>
 	<li>2</li>
 	<li>3</li>
