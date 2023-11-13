@@ -50,71 +50,71 @@ Abaixo será listado os RNFs do projeto:
 <ul>
 	<li>
 		<strong>RNF001</strong>
-		  <p>Origem: API</p>
-		  <p>Nome: Login dos usuários</p>
-		  <p>Descrição: Permitir login apenas de usuários cadastrados.</p>
-		  <p>Prioridade: Muito Alta</p>
+		  <p>Origem: API;</p>
+		  <p>Nome: Login dos usuários;</p>
+		  <p>Descrição: Permitir login apenas de usuários cadastrados;</p>
+		  <p>Prioridade: Muito Alta;</p>
 	</li>
 	&nbsp;
 	<li>
 		<strong>RNF002</strong>
-		  <p>Origem: API</p>
-		  <p>Nome: Cadastro de usuários</p>
+		  <p>Origem: API;</p>
+		  <p>Nome: Cadastro de usuários;</p>
 		  <p>Descrição: Permitir que o usuário crie 
 				uma conta, e checar se já 
 				tem um usuário com o 
 				mesmo apelido antes de 
-				cadastrar.
+				cadastrar;
 		  </p>
-		  <p>Prioridade: Muito Alta</p>
+		  <p>Prioridade: Muito Alta;</p>
 	</li>
 	&nbsp;
 	<li>
 		<strong>RNF003</strong>
-		  <p>Origem: Mobile</p>
-		  <p>Nome: Executável plataformas Android e IOS</p>
+		  <p>Origem: Mobile;</p>
+		  <p>Nome: Executável plataformas Android e IOS;</p>
 		  <p>Descrição: O aplicativo deve ser 
 				desenvolvido para rodar 
 				em plataformas 
-				Android/IOS
+				Android/IOS;
 		  </p>
-		  <p>Prioridade: Muito Alta</p>
+		  <p>Prioridade: Muito Alta;</p>
 	</li>
 	&nbsp;
 	<li>
 		<strong>RNF004</strong>
-		  <p>Origem: Framework</p>
-		  <p>Nome: Utilizar React Native com expo ou Flutter/Dart</p>
-		  <p>Descrição: Utilizar o framework para criar a aplicação mobile</p>
-		  <p>Prioridade: Muito Alta</p>
+		  <p>Origem: Framework;</p>
+		  <p>Nome: Utilizar React Native com expo ou Flutter/Dart;</p>
+		  <p>Descrição: Utilizar o framework para criar a aplicação mobile;</p>
+		  <p>Prioridade: Muito Alta;</p>
 	</li>
 	&nbsp;
 	<li>
 		<strong>RNF005</strong>
-		  <p>Origem: Mobile</p>
-		  <p>Nome: Validar internet</p>
+		  <p>Origem: Mobile;</p>
+		  <p>Nome: Validar internet;</p>
 		  <p>Descrição: Permitir o modo
     				multiplayer somente se o 
 				usuário estiver conectado 
-				a uma rede de internet		
+				a uma rede de internet;
 		  </p>
-		  <p>Prioridade: Muito Alta</p>  
+		  <p>Prioridade: Muito Alta;</p>  
 	</li>
 	&nbsp;
 	<li>
 		<strong>RNF006</strong>
-		  <p>Origem: Mobile</p>
-		  <p>Nome: Usabilidade</p>
-		  <p>Descrição: O sistema deve ser fácil de aprender e usar</p>
-		  <p>Prioridade: Muito Alta</p>  
+		  <p>Origem: Mobile;</p>
+		  <p>Nome: Usabilidade;</p>
+		  <p>Descrição: O sistema deve ser fácil de aprender e usar;</p>
+		  <p>Prioridade: Muito Alta;</p>  
 	</li>
 	&nbsp;
 	<li>
 		<strong>RNF007</strong>
-		  <p>Origem: Aplicação</p>
-		  <p>Nome: Segurança</p>
-		  <p>Descrição: O sistema deve proteger os dados dos usuários contra acesso não autorizado.</p>
-		  <p>Prioridade: Muito Alta</p>
+		  <p>Origem: Aplicação;</p>
+		  <p>Nome: Segurança;</p>
+		  <p>Descrição: O sistema deve proteger os dados dos usuários contra acesso não autorizado;</p>
+		  <p>Prioridade: Muito Alta;</p>
 	</li>
 	
 </ul>
