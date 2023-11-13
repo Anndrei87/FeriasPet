@@ -83,7 +83,7 @@ o sucesso e a eficiência desses negócios.
 	</li>
 	<li>
 		<strong>RNF005</strong>
-		<div style="margin-right: 30px;">
+		<div style="margin-left: 30px;">
 			  <p>Origem: Mobile</p>
 			  <p>Nome: Validar internet</p>
 			  <p>Descrição: Permitir o modo 
