@@ -135,10 +135,13 @@ Abaixo será listado os RNFs do projeto:
 	&nbsp;
 	&nbsp;
 	&nbsp;
-	<a href="#" style="margin-right: 30px">
+	<div>
+			<a href="#" style="margin-right: 30px">
 		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
 		<span>asdasd</span>
 	</a>
+	</div>
+	
 	&nbsp;
 	&nbsp;
 	&nbsp;		
