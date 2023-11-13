@@ -129,54 +129,9 @@ Abaixo será listado os RNFs do projeto:
 
 # Autores
 <div > 
-	<a href="#" style="margin-right: 30px">
-		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
-	</a>
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	<a href="#" style="margin-right: 30px">
-		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
-	</a>
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	<a href="#" style="margin-right: 30px;">
-		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
-	</a>
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	<a href="#" style="margin-right: 30px;">
-		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
-	</a>
-	&nbsp;
-	&nbsp;
-	&nbsp;
-	<a href="#" style="margin-right: 30px;">
-		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
-	</a>
- 	&nbsp;
-	&nbsp;
-	&nbsp;
-	<a href="#" style="margin-right: 30px;">
-		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
-	</a>
- 	&nbsp;
-	&nbsp;
-	&nbsp;
-	<a href="#" style="margin-right: 30px;">
-		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
-	</a>
- 	&nbsp;
-	&nbsp;
-	&nbsp;
-	<a href="#" style="margin-right: 30px;">
-		<img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
-	</a>
- 	
-
-</div>
+	- [Andrei Moreira](https://github.com/Anndrei87)
+	- Add your clickable username here. It should point to your GitHub account. 
+	</div>
 
 # Protótipos
 	- High-fi
