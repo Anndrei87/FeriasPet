@@ -134,6 +134,8 @@ Abaixo será listado os RNFs do projeto:
 		<br />
 		<span> Feito por Andrei Moreira 👋! </span> 
 	</a> 
+</div>
+<div > 
 	<a href="[https://github.com/Seu-perfil](https://github.com/Anndrei87)" style="text-decoration: none;">
 		<img style="border-radius: 50%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
 		<br />
