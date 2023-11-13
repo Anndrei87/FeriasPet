@@ -45,7 +45,7 @@ o sucesso e a eficiência desses negócios.
 
 <ul>
 	<li>
-		RNF001
+		<strong>RNF001</strong>
 		  <p>Origem: API</p>
 		  <p>Nome: Login dos usuários</p>
 		  <p>Descrição: Permitir login apenas de usuários cadastrados.</p>
