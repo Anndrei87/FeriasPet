@@ -173,13 +173,13 @@ Abaixo será listado os RNFs do projeto:
 </div>
 &nbsp;
 &nbsp;
-<div > 
+<div> 
 	<a href="https://github.com/DannVSi" style="text-decoration: none;">
 		<img style="border-radius: 50%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/114626709?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
 		<br />
 	</a> 
 	<span> Feito por Daniel Souza 👋! </span> 
-</div
+</div>
 &nbsp;
 &nbsp;
 # Protótipos
