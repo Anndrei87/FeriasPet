@@ -138,21 +138,48 @@ Abaixo será listado os RNFs do projeto:
 &nbsp;
 &nbsp;
 <div > 
-	<a href="https://github.com/Anndrei87" style="text-decoration: none;">
-		<img style="border-radius: 50%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/83313975?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
+	<a href="https://github.com/GiovaniCitolin" style="text-decoration: none;">
+		<img style="border-radius: 50%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/116692897?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
 		<br />
 	</a> 
-	<span> Feito por Andrei Moreira 👋! </span> 
+	<span> Feito por Giovani Citolin 👋! </span> 
 </div>
 &nbsp;
 &nbsp;
 <div > 
-	<a href="https://github.com/Anndrei87" style="text-decoration: none;">
+	<a href="https://github.com/Rox351" style="text-decoration: none;">
 		<img style="border-radius: 50%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/95651574?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
 		<br />
 	</a> 
-	<span> Feito por Andrei Moreira 👋! </span> 
+	<span> Feito por Leonardo Soares 👋! </span> 
 </div>
+&nbsp;
+&nbsp;
+<div > 
+	<a href="https://github.com/EduardoRuas1" style="text-decoration: none;">
+		<img style="border-radius: 50%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/132717144?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
+		<br />
+	</a> 
+	<span> Feito por Eduardo Ruas 👋! </span> 
+</div>
+&nbsp;
+&nbsp;
+<div > 
+	<a href="https://github.com/Dev-Gabriel-0" style="text-decoration: none;">
+		<img style="border-radius: 50%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/132717180?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
+		<br />
+	</a> 
+	<span> Feito por Gabriel Alves 👋! </span> 
+</div>
+&nbsp;
+&nbsp;
+<div > 
+	<a href="https://github.com/DannVSi" style="text-decoration: none;">
+		<img style="border-radius: 50%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/114626709?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
+		<br />
+	</a> 
+	<span> Feito por Daniel Souza 👋! </span> 
+</div
 
 # Protótipos
 	- High-fi
