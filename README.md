@@ -144,6 +144,15 @@ Abaixo será listado os RNFs do projeto:
 	</a> 
 	<span> Feito por Andrei Moreira 👋! </span> 
 </div>
+&nbsp;
+&nbsp;
+<div > 
+	<a href="https://github.com/Anndrei87" style="text-decoration: none;">
+		<img style="border-radius: 50%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/95651574?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
+		<br />
+	</a> 
+	<span> Feito por Andrei Moreira 👋! </span> 
+</div>
 
 # Protótipos
 	- High-fi
