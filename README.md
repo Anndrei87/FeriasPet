@@ -38,8 +38,122 @@ o sucesso e a eficiência desses negócios.
 * [Considerações Finais](#consideracoes)
 
 # Requisitos Funcionais 
+Requisitos funcionais são as características ou funcionalidades que um sistema deve ter para atender às necessidades 
+do usuário. Eles descrevem o que o sistema deve fazer, em termos de tarefas e serviços.
 
-🚧  Em desenvolvimento . . .
+Abaixo será listado os RFs do projeto:
+
+<ul>
+	<li>
+		<strong>RN001</strong>
+		  <p>Origem: Usuário;</p>
+		  <p>Nome: Tela de login;</p>
+		  <p>Descrição: O sistema deve receber E-mail/CPF e senha para acessar o sistema.</p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+	<li>
+		<strong>RN002</strong>
+		  <p>Origem: Usuário;</p>
+		  <p>Nome: Cadastro;</p>
+		  <p>Descrição: O sistema deve cadastrar usuário (administrador/dependente), salvando no banco de dados.</p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+	<li>
+		<strong>RN003</strong>
+		  <p>Origem: Usuário;</p>
+		  <p>Nome: Editar perfil;</p>
+		  <p>Descrição: O sistema deve permitir que o usuário edite o seu perfil, podendo alterar a senha e sair da conta.</p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+	<li>
+		<strong>RN004</strong>
+		  <p>Origem: Sistema;</p>
+		  <p>Nome: CRUD Hoteis;</p>
+		  <p>Descrição: O sistema deve permitir que o usuário com perfil de administrador possa adicionar, remover, editar e consultar um novo hotel.</p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+	<li>
+		<strong>RN005</strong>
+		  <p>Origem: Sistema;</p>
+		  <p>Nome: Tela inicial;</p>
+		  <p>Descrição: O sistema deve possuir uma pagina inicial que seja possivel redirecionar para as telas de busca, suporte para o cliente e cuidados com pet.</p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+	<li>
+		<strong>RN006</strong>
+		  <p>Origem: Sistema;</p>
+		  <p>Nome: Tela inicial;</p>
+		  <p>Descrição: O sistema deve possuir uma pagina inicial que seja possivel redirecionar para as telas de busca, suporte para o cliente e cuidados com pet.</p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+	<li>
+		<strong>RN007</strong>
+		  <p>Origem: Sistema;</p>
+		  <p>Nome: Tela de busca;</p>
+		  <p>Descrição: O sistema deve possuir uma pagina de busca que nela será possivel mostrar uma listagem de hoteis, assim como, filtro baseado em valores e mais 
+			  recomendados.</p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+	<li>
+		<strong>RN008</strong>
+		  <p>Origem: Sistema;</p>
+		  <p>Nome: Tela de busca selecionada;</p>
+		  <p>Descrição: O sistema deve possuir uma pagina que irá trazer os dados do hotel selecionado, além de ter uma sessão para comentarios e favoritar a busca</p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+	<li>
+		<strong>RN009</strong>
+		  <p>Origem: Sistema;</p>
+		  <p>Nome: Tela de cuidados com pet;</p>
+		  <p>Descrição: O sistema deve possuir uma pagina que será uma tela que irá dar dicas sobre a categoria do pet selecionado;</p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+	<li>
+		<strong>RN010</strong>
+		  <p>Origem: Sistema;</p>
+		  <p>Nome: Tela de suporte;</p>
+		  <p>Descrição: O sistema deve possuir uma pagina que será uma tela com dúvidas e respostas frequentes sobre o app e as funcionalidades;</p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+	<li>
+		<strong>RN011</strong>
+		  <p>Origem: Sistema;</p>
+		  <p>Nome: Tela de favoritos;</p>
+		  <p>Descrição: O sistema deve possuir uma pagina que será uma tela com a listagem de buscas favoritadas, os itens deverão ser apresentados 
+			  	pela ordem de mais recente
+		  </p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+	<li>
+		<strong>RN011</strong>
+		  <p>Origem: Sistema;</p>
+		  <p>Nome: Barra de navegação;</p>
+		  <p>Descrição: O sistema deve possuir uma navegação na parte inferior da tela, redirecionando para a pagina inicial, pagina de busca, favoritos e suporte
+		  </p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+	<li>
+		<strong>RN012</strong>
+		  <p>Origem: Sistema;</p>
+		  <p>Nome: Icone perfil Menu;</p>
+		  <p>Descrição: O sistema deve possuir um icone de menu que irá conceder acesso ao perfil do usuário, se ele for administrador, dar acesso para adicionar, editar e excluir 				hoteis da api
+		  </p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+</ul>
 
 # Requisitos Não Funcionais 
 Requisitos não funcionais (RNFs) são as restrições impostas a um sistema que definem seus atributos de qualidade. Os RNFs 
