@@ -325,32 +325,39 @@ Abaixo será listado os RNFs do projeto:
    
    Protótipo High Fi - Protótipo Interativo
 
+   Abaixo será apresentado frames que irá conter as telas high-fi da aplicação:
+   
+   Frame 1 com telas de login, consultar perfil e homepage
+
    <div>
-      <img src="./assets/high-fi/Tela Login.png"  height="350px">
-      <img src="./assets/high-fi/Home page.png"  height="350px">
-      <img src="./assets/high-fi/Tela visualizar Perfil.png" height="350px">
+      <img src="./assets/high-fi/Tela Login.png" height="350px" alt="Login Page">
+      <img src="./assets/high-fi/Home page.png" height="350px"  alt="Home Page">
+      <img src="./assets/high-fi/Tela visualizar Perfil.png" height="350px"  alt="Consultar Perfil">
    </div>
-asd
+   
+   Frame 2 com telas de busca, busca selecionada perfil e cadastro
+   
    <div>
-      <img src="./assets/high-fi/Tela Busca.png"  height="350px">
-      <img src="./assets/high-fi/Tela Busca Selecionada.png"  height="350px">
-      <img src="./assets/high-fi/Tela Cadastro.png" height="350px">
-   </div>
-asd
-   <div>
-      <img src="./assets/high-fi/Tela recuperação de senha.png"  height="350px">
-      <img src="./assets/high-fi/Suporte pet.png"  height="350px">
-      <img src="./assets/high-fi/Suporte pet 2.png" height="350px">
+      <img src="./assets/high-fi/Tela Busca.png" height="350px" alt="Busca Page">
+      <img src="./assets/high-fi/Tela Busca Selecionada.png"  height="350px" alt="Busca selecionada Page">
+      <img src="./assets/high-fi/Tela de Cadastro.png" height="350px" alt="Cadastro Page">
    </div>
 
-   asd
+   Frame 3 com telas de recuperar senha, suporte home e suporte busca
+
    <div>
-      <img src="./assets/high-fi/Tela de Favorito.png"  height="350px">
-      <img src="./assets/high-fi/Tela erro http.png"  height="350px">
-      <img src="./assets/high-fi/Tela de Cadastro Error.png" height="350px">
+      <img src="./assets/high-fi/Tela recuperação de senha.png" height="350px"  alt="Recuperar senha Page">
+      <img src="./assets/high-fi/Suporte pet.png"  height="350px"  alt="Suporte Home Page">
+      <img src="./assets/high-fi/Suporte pet 2.png" height="350px"  alt="Suporte busca Page">
    </div>
 
-🚧  Ambos em desenvolvimento . . .
+   Frame 4 com telas de favoritos, erro generico http e label de erro para os formulários
+   
+   <div>
+      <img src="./assets/high-fi/Tela de Favorito.png"  height="350px" alt="Favorite Page">
+      <img src="./assets/high-fi/Tela erro http.png"  height="350px" alt="Error generico Page">
+      <img src="./assets/high-fi/Tela de Cadastro Error.png" height="350px" alt="Label form error Page">
+   </div>
 
 # Avaliação Heurística de Nielson e SUS
 
