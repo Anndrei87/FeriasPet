@@ -87,14 +87,6 @@ Abaixo será listado os RFs do projeto:
 	<li>
 		<strong>RN006</strong>
 		  <p>Origem: Sistema;</p>
-		  <p>Nome: Tela inicial;</p>
-		  <p>Descrição: O sistema deve possuir uma pagina inicial que seja possivel redirecionar para as telas de busca, suporte para o cliente e cuidados com pet.</p>
-		  <p>Prioridade: Muito Alta;</p>
-	</li>
-	&nbsp;
-	<li>
-		<strong>RN007</strong>
-		  <p>Origem: Sistema;</p>
 		  <p>Nome: Tela de busca;</p>
 		  <p>Descrição: O sistema deve possuir uma pagina de busca que nela será possivel mostrar uma listagem de hoteis, assim como, filtro baseado em valores e mais 
 			  recomendados.</p>
@@ -102,7 +94,7 @@ Abaixo será listado os RFs do projeto:
 	</li>
 	&nbsp;
 	<li>
-		<strong>RN008</strong>
+		<strong>RN007</strong>
 		  <p>Origem: Sistema;</p>
 		  <p>Nome: Tela de busca selecionada;</p>
 		  <p>Descrição: O sistema deve possuir uma pagina que irá trazer os dados do hotel selecionado, além de ter uma sessão para comentarios e favoritar a busca</p>
@@ -110,7 +102,7 @@ Abaixo será listado os RFs do projeto:
 	</li>
 	&nbsp;
 	<li>
-		<strong>RN009</strong>
+		<strong>RN008</strong>
 		  <p>Origem: Sistema;</p>
 		  <p>Nome: Tela de cuidados com pet;</p>
 		  <p>Descrição: O sistema deve possuir uma pagina que será uma tela que irá dar dicas sobre a categoria do pet selecionado;</p>
@@ -118,7 +110,7 @@ Abaixo será listado os RFs do projeto:
 	</li>
 	&nbsp;
 	<li>
-		<strong>RN010</strong>
+		<strong>RN009</strong>
 		  <p>Origem: Sistema;</p>
 		  <p>Nome: Tela de suporte;</p>
 		  <p>Descrição: O sistema deve possuir uma pagina que será uma tela com dúvidas e respostas frequentes sobre o app e as funcionalidades;</p>
@@ -126,7 +118,7 @@ Abaixo será listado os RFs do projeto:
 	</li>
 	&nbsp;
 	<li>
-		<strong>RN011</strong>
+		<strong>RN010</strong>
 		  <p>Origem: Sistema;</p>
 		  <p>Nome: Tela de favoritos;</p>
 		  <p>Descrição: O sistema deve possuir uma pagina que será uma tela com a listagem de buscas favoritadas, os itens deverão ser apresentados 
