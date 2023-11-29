@@ -300,6 +300,9 @@ Abaixo será listado os RNFs do projeto:
 
 # Protótipos
    Protótipo Low Fi - Wireframe estático
+   <div>
+      <img src="./assets/low-fi/frame1.jpeg">
+   </div>
    
    Protótipo High Fi - Protótipo Interativo
 
