@@ -299,8 +299,8 @@ Abaixo será listado os RNFs do projeto:
 </div>
 
 # Protótipos
-	- High-fi
- 	- Low-fi
+   Protótipo Low Fi - Wireframe estático
+   Protótipo High Fi - Protótipo Interativo
 
 🚧  Ambos em desenvolvimento . . .
 
