@@ -327,20 +327,27 @@ Abaixo será listado os RNFs do projeto:
 
    <div>
       <img src="./assets/high-fi/Tela Login.png"  height="350px">
-      <img src="./assets/high-fi/Tela Login.png"  height="350px">
-      <img src="./assets/high-fi/Tela Login.png" height="350px">
+      <img src="./assets/high-fi/Home page.png"  height="350px">
+      <img src="./assets/high-fi/Tela visualizar Perfil.png" height="350px">
    </div>
 asd
    <div>
-      <img src="./assets/high-fi/Tela Login.png"  height="350px">
-      <img src="./assets/high-fi/Tela Login.png"  height="350px">
-      <img src="./assets/high-fi/Tela Login.png" height="350px">
+      <img src="./assets/high-fi/Tela Busca.png"  height="350px">
+      <img src="./assets/high-fi/Tela Busca Selecionada.png"  height="350px">
+      <img src="./assets/high-fi/Tela Cadastro.png" height="350px">
    </div>
 asd
    <div>
-      <img src="./assets/high-fi/Tela Login.png"  height="350px">
-      <img src="./assets/high-fi/Tela Login.png"  height="350px">
-      <img src="./assets/high-fi/Tela Login.png" height="350px">
+      <img src="./assets/high-fi/Tela recuperação de senha.png"  height="350px">
+      <img src="./assets/high-fi/Suporte pet.png"  height="350px">
+      <img src="./assets/high-fi/Suporte pet 2.png" height="350px">
+   </div>
+
+   asd
+   <div>
+      <img src="./assets/high-fi/Tela de Favorito.png"  height="350px">
+      <img src="./assets/high-fi/Tela de erro http.png"  height="350px">
+      <img src="./assets/high-fi/Tela de Cadastro Error.png" height="350px">
    </div>
 
 🚧  Ambos em desenvolvimento . . .
