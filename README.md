@@ -145,6 +145,22 @@ Abaixo será listado os RFs do projeto:
 		  <p>Prioridade: Muito Alta;</p>
 	</li>
 	&nbsp;
+	<li>
+		<strong>RN013</strong>
+		  <p>Origem: Sistema;</p>
+		  <p>Nome: Mecanismo para busca;</p>
+		  <p>Descrição: O sistema deve realizar a busca de hoteis usando serviço do google </p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+	<li>
+		<strong>RN014</strong>
+		  <p>Origem: Sistema;</p>
+		  <p>Nome: Mecanismo para busca selecionada;</p>
+		  <p>Descrição: O sistema deve realizar a busca selecionada de hoteis usando serviço do google, trazendo informações necessárias para popular os campos da tela </p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
 </ul>
 
 # Requisitos Não Funcionais 
