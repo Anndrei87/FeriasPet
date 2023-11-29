@@ -299,7 +299,7 @@ Abaixo será listado os RNFs do projeto:
 </div>
 
 # Protótipos
-   Protótipo Low Fi - Wireframe estático
+Protótipo Low Fi - Wireframe estático
 
    Abaixo será apresentado frames que irá conter as telas low-fi da aplicação:
    
@@ -325,7 +325,7 @@ Abaixo será listado os RNFs do projeto:
 
    &nbsp;
    
-   Protótipo High Fi - Protótipo Interativo
+Protótipo High Fi - Protótipo Interativo
 
    Abaixo será apresentado frames que irá conter as telas high-fi da aplicação:
    
