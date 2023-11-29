@@ -305,20 +305,17 @@ Abaixo será listado os RNFs do projeto:
    <div>
       <img src="./assets/low-fi/frame1.jpeg" width="60%">
    </div>
-   &nbsp;
-   &nbsp;
+   
    Frame 2 com telas de busca, suporte e redefinir senha
    <div>
       <img src="./assets/low-fi/frame2.jpeg" width="60%">
    </div>
-   &nbsp;
-   &nbsp;
+   
    Frame 3 com telas de visualizar hotel, cuidado home e cuidado resultado busca
    <div>
       <img src="./assets/low-fi/frame3.jpeg" width="60%">
    </div>
-   &nbsp;
-   &nbsp;
+   
    Frame 4 com telas de visualizar perfil usuário, favoritos e erros https genéricos
    <div>
       <img src="./assets/low-fi/frame4.jpeg" width="60%">
