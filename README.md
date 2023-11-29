@@ -326,7 +326,9 @@ Abaixo será listado os RNFs do projeto:
    Protótipo High Fi - Protótipo Interativo
 
    <div>
-      <img src="./assets/high-fi/Tela Login.png" width="60%">
+      <img src="./assets/high-fi/Tela Login.png" width="400px" height="350px">
+      <img src="./assets/high-fi/Tela Login.png" width="400px" height="350px">
+      <img src="./assets/high-fi/Tela Login.png" width="400px" height="350px">
    </div>
 
 🚧  Ambos em desenvolvimento . . .
