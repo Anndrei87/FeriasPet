@@ -296,6 +296,15 @@ Abaixo será listado os RNFs do projeto:
 </div>
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+<div> 
+	<a href="https://github.com/mariadev2" style="text-decoration: none;">
+		<img style="border-radius: 50%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/101299266?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
+		<br />
+	</a> 
+	<span> Feito por Maria Eduarda 👋! </span> 
+</div>
 
 # Protótipos
 	- High-fi
