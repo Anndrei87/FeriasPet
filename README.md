@@ -325,6 +325,10 @@ Abaixo será listado os RNFs do projeto:
    
    Protótipo High Fi - Protótipo Interativo
 
+   <div>
+      <img src="./assets/high-fi/Tela Login.png" width="60%">
+   </div>
+
 🚧  Ambos em desenvolvimento . . .
 
 # Avaliação Heurística de Nielson e SUS
