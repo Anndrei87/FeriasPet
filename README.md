@@ -303,7 +303,7 @@ Abaixo será listado os RNFs do projeto:
    
    Frame 1 com telas de login, cadastro e homepage
    <div>
-      <img src="./assets/low-fi/frame1.jpeg">
+      <img src="./assets/low-fi/frame1.jpeg" width="50%">
    </div>
 
    Frame 2 com telas de busca, suporte e redefinir senha
@@ -318,7 +318,7 @@ Abaixo será listado os RNFs do projeto:
 
    Frame 4 com telas de visualizar perfil usuário, favoritos e erros https genéricos
    <div>
-      <img src="./assets/low-fi/frame3.jpeg">
+      <img src="./assets/low-fi/frame4.jpeg">
    </div>
    
    Protótipo High Fi - Protótipo Interativo
