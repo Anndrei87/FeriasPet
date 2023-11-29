@@ -301,24 +301,24 @@ Abaixo será listado os RNFs do projeto:
 # Protótipos
 Protótipo Low Fi - Wireframe estático
 
-   Abaixo será apresentado frames que irá conter as telas low-fi da aplicação:
+   &nbsp;Abaixo será apresentado frames que irá conter as telas low-fi da aplicação:
    
-   Frame 1 com telas de login, cadastro e homepage
+   &nbsp;Frame 1 com telas de login, cadastro e homepage
    <div>
       <img src="./assets/low-fi/frame1.jpeg" width="60%">
    </div>
    
-   Frame 2 com telas de busca, suporte e redefinir senha
+   &nbsp;Frame 2 com telas de busca, suporte e redefinir senha
    <div>
       <img src="./assets/low-fi/frame2.jpeg" width="60%">
    </div>
    
-   Frame 3 com telas de visualizar hotel, cuidado home e cuidado resultado busca
+   &nbsp;Frame 3 com telas de visualizar hotel, cuidado home e cuidado resultado busca
    <div>
       <img src="./assets/low-fi/frame3.jpeg" width="60%">
    </div>
    
-   Frame 4 com telas de visualizar perfil usuário, favoritos e erros https genéricos
+   &nbsp;Frame 4 com telas de visualizar perfil usuário, favoritos e erros https genéricos
    <div>
       <img src="./assets/low-fi/frame4.jpeg" width="60%">
    </div>
