@@ -323,7 +323,7 @@ Abaixo será listado os RNFs do projeto:
       <img src="./assets/low-fi/frame4.jpeg" width="60%">
    </div>
 
-   
+   &nbsp;
    
    Protótipo High Fi - Protótipo Interativo
 
