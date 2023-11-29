@@ -144,7 +144,6 @@ Abaixo será listado os RFs do projeto:
 		  </p>
 		  <p>Prioridade: Muito Alta;</p>
 	</li>
-	&nbsp;
 </ul>
 
 # Requisitos Não Funcionais 
@@ -222,6 +221,23 @@ Abaixo será listado os RNFs do projeto:
 		  <p>Descrição: O sistema deve proteger os dados dos usuários contra acesso não autorizado;</p>
 		  <p>Prioridade: Muito Alta;</p>
 	</li>
+ 	&nbsp;
+	<li>
+		<strong>RN008</strong>
+		  <p>Origem: Sistema;</p>
+		  <p>Nome: Mecanismo para busca;</p>
+		  <p>Descrição: O sistema deve realizar a busca de hoteis usando serviço do google </p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
+	<li>
+		<strong>RN009</strong>
+		  <p>Origem: Sistema;</p>
+		  <p>Nome: Mecanismo para busca selecionada;</p>
+		  <p>Descrição: O sistema deve realizar a busca selecionada de hoteis usando serviço do google, trazendo informações necessárias para popular os campos da tela </p>
+		  <p>Prioridade: Muito Alta;</p>
+	</li>
+	&nbsp;
 	
 </ul>
 
@@ -299,14 +315,67 @@ Abaixo será listado os RNFs do projeto:
 </div>
 
 # Protótipos
-   Protótipo Low Fi - Wireframe estático
+Protótipo Low Fi - Wireframe estático
+
+   &nbsp;&nbsp;Abaixo será apresentado frames que irá conter as telas low-fi da aplicação:
+   
+   Frame 1 com telas de login, cadastro e homepage
    <div>
-      <img src="./assets/low-fi/frame1.jpeg">
+      <img src="./assets/low-fi/frame1.jpeg" width="60%">
    </div>
    
-   Protótipo High Fi - Protótipo Interativo
+   Frame 2 com telas de busca, suporte e redefinir senha
+   <div>
+      <img src="./assets/low-fi/frame2.jpeg" width="60%">
+   </div>
+  
+   Frame 3 com telas de visualizar hotel, cuidado home e cuidado resultado busca
+   <div>
+      <img src="./assets/low-fi/frame3.jpeg" width="60%">
+   </div>
+ 
+   Frame 4 com telas de visualizar perfil usuário, favoritos e erros https genéricos
+   <div>
+      <img src="./assets/low-fi/frame4.jpeg" width="60%">
+   </div>
 
-🚧  Ambos em desenvolvimento . . .
+   &nbsp;
+   
+Protótipo High Fi - Protótipo Interativo
+
+   &nbsp;&nbsp;Abaixo será apresentado frames que irá conter as telas high-fi da aplicação:
+   
+   Frame 1 com telas de login, consultar perfil e homepage
+
+   <div>
+      <img src="./assets/high-fi/Tela Login.png" height="350px" alt="Login Page">
+      <img src="./assets/high-fi/Home page.png" height="350px"  alt="Home Page">
+      <img src="./assets/high-fi/Tela visualizar Perfil.png" height="350px"  alt="Consultar Perfil">
+   </div>
+   
+   Frame 2 com telas de busca, busca selecionada perfil e cadastro
+   
+   <div>
+      <img src="./assets/high-fi/Tela Busca.png" height="350px" alt="Busca Page">
+      <img src="./assets/high-fi/Tela Busca Selecionada.png"  height="350px" alt="Busca selecionada Page">
+      <img src="./assets/high-fi/Tela de Cadastro.png" height="350px" alt="Cadastro Page">
+   </div>
+
+   Frame 3 com telas de recuperar senha, suporte home e suporte busca
+
+   <div>
+      <img src="./assets/high-fi/Tela recuperação de senha.png" height="350px"  alt="Recuperar senha Page">
+      <img src="./assets/high-fi/Suporte pet.png"  height="350px"  alt="Suporte Home Page">
+      <img src="./assets/high-fi/Suporte pet 2.png" height="350px"  alt="Suporte busca Page">
+   </div>
+
+   Frame 4 com telas de favoritos, erro generico http e label de erro para os formulários
+   
+   <div>
+      <img src="./assets/high-fi/Tela de Favorito.png"  height="350px" alt="Favorite Page">
+      <img src="./assets/high-fi/Tela erro http.png"  height="350px" alt="Error generico Page">
+      <img src="./assets/high-fi/Tela de Cadastro Error.png" height="350px" alt="Label form error Page">
+   </div>
 
 # Avaliação Heurística de Nielson e SUS
 
