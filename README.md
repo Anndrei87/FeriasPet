@@ -346,7 +346,7 @@ asd
    asd
    <div>
       <img src="./assets/high-fi/Tela de Favorito.png"  height="350px">
-      <img src="./assets/high-fi/Tela de erro http.png"  height="350px">
+      <img src="./assets/high-fi/Tela erro http.png"  height="350px">
       <img src="./assets/high-fi/Tela de Cadastro Error.png" height="350px">
    </div>
 
