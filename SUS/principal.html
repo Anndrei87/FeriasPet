@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        tr{
+            background: #ececec;
+        }
+
+        th, td {
+            border: 1px solid #000000;
+            text-align: left;
+            padding: 8px;
+        }
+
+        th {
+            background-color: grey;
+            color: #fff;
+        }
+
+        input[type="radio"] {
+            margin-right: 5px;
+        }
+        .containerResult{
+            display: flex;
+            align-items: center;
+            flex-direction: column;
+        }
+        .containerImg{
+            width: 100%;
+            justify-content: center;
+            display: flex;
+        }
+
+        button{
+            width: 250px;
+            height: 40px;
+            border-radius: 20px;
+            background: orange;
+            color: #fff;
+        }
+    </style>
+    <title>FeriasPet</title>
+</head>
+<body>
+    <div class="containerImg">
+        <img src="../assets/nos-somos-FeriasPet-logo.png" alt="logo page" width="20%"/>
+    </div>
+    
+
+    <h2 style="text-align: center;">System Usability Scale - Ferias Pet</h2>
+
+    <table>
+        <tr>
+            <th>Perguntas</th>
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+            <th>4</th>
+            <th>5</th>
+        </tr>
+        <tr>
+            <td>1. Acho que gostaria de usar este aplicativo com frequência.</td>
+            <td><input type="radio" name="q1" value="1"></td>
+            <td><input type="radio" name="q1" value="2"></td>
+            <td><input type="radio" name="q1" value="3"></td>
+            <td><input type="radio" name="q1" value="4"></td>
+            <td><input type="radio" name="q1" value="5"></td>
+        </tr>
+        <tr>
+            <td>2. Achei este aplicativo desnecessariamente complexo.</td>
+            <td><input type="radio" name="q2" value="1"></td>
+            <td><input type="radio" name="q2" value="2"></td>
+            <td><input type="radio" name="q2" value="3"></td>
+            <td><input type="radio" name="q2" value="4"></td>
+            <td><input type="radio" name="q2" value="5"></td>
+        </tr>
+        <tr>
+            <td>3. Achei este aplicativo fácil de usar.</td>
+            <td><input type="radio" name="q3" value="1"></td>
+            <td><input type="radio" name="q3" value="2"></td>
+            <td><input type="radio" name="q3" value="3"></td>
+            <td><input type="radio" name="q3" value="4"></td>
+            <td><input type="radio" name="q3" value="5"></td>
+        </tr>
+        <tr>
+            <td>4. Acho que precisaria de ajuda para poder usar este aplicativo.</td>
+            <td><input type="radio" name="q4" value="1"></td>
+            <td><input type="radio" name="q4" value="2"></td>
+            <td><input type="radio" name="q4" value="3"></td>
+            <td><input type="radio" name="q4" value="4"></td>
+            <td><input type="radio" name="q4" value="5"></td>
+        </tr>
+        <tr>
+            <td>5. Achei que as várias funções deste aplicativo estavam bem integradas.</td>
+            <td><input type="radio" name="q5" value="1"></td>
+            <td><input type="radio" name="q5" value="2"></td>
+            <td><input type="radio" name="q5" value="3"></td>
+            <td><input type="radio" name="q5" value="4"></td>
+            <td><input type="radio" name="q5" value="5"></td>
+        </tr>
+        <tr>
+            <td>6. Achei que havia muita inconsistência neste aplicativo.</td>
+            <td><input type="radio" name="q6" value="1"></td>
+            <td><input type="radio" name="q6" value="2"></td>
+            <td><input type="radio" name="q6" value="3"></td>
+            <td><input type="radio" name="q6" value="4"></td>
+            <td><input type="radio" name="q6" value="5"></td>
+        </tr>
+        <tr>
+            <td>7. Imagino que a maioria das pessoas aprenderia a usar este site muito rapidamente.</td>
+            <td><input type="radio" name="q7" value="1"></td>
+            <td><input type="radio" name="q7" value="2"></td>
+            <td><input type="radio" name="q7" value="3"></td>
+            <td><input type="radio" name="q7" value="4"></td>
+            <td><input type="radio" name="q7" value="5"></td>
+        </tr>
+        <tr>
+            <td>8. Achei este site muito complicado/desajeitado de usar.</td>
+            <td><input type="radio" name="q8" value="1"></td>
+            <td><input type="radio" name="q8" value="2"></td>
+            <td><input type="radio" name="q8" value="3"></td>
+            <td><input type="radio" name="q8" value="4"></td>
+            <td><input type="radio" name="q8" value="5"></td>
+        </tr>
+        <tr>
+            <td>9. Eu me senti muito confiante ao usar este aplicativo.</td>
+            <td><input type="radio" name="q9" value="1"></td>
+            <td><input type="radio" name="q9" value="2"></td>
+            <td><input type="radio" name="q9" value="3"></td>
+            <td><input type="radio" name="q9" value="4"></td>
+            <td><input type="radio" name="q9" value="5"></td>
+        </tr>
+        <tr>
+            <td>10. I precisava aprender muitas coisas antes de começar a usar este aplicativo.</td>
+            <td><input type="radio" name="q10" value="1"></td>
+            <td><input type="radio" name="q10" value="2"></td>
+            <td><input type="radio" name="q10" value="3"></td>
+            <td><input type="radio" name="q10" value="4"></td>
+            <td><input type="radio" name="q10" value="5"></td>
+        </tr>
+    </table>
+    <div class="containerResult">
+
+        <button onclick="calcularTotal()" >Calcular SUS</button>
+        <p id="totalScore">Total Score: 0 </p>
+        <p id="susScore">SUS Score: 0</p>
+    
+    </div>
+
+    <script>
+        function calcularTotal() {
+            var radios = document.querySelectorAll('input[type="radio"]:checked');
+            var totalScore = 0;
+            if (radios.length == 0) {
+                console.log('sd');
+             return  alert('Preencha os campos para obter a média')
+            }
+            radios.forEach(function (radio) {
+               
+                totalScore += parseInt(radio.value);
+            });
+
+            var susScore = (totalScore - 5) * 2.5;
+
+            document.getElementById('totalScore').innerText = 'Total Score: ' + totalScore;
+            document.getElementById('susScore').innerText = 'SUS Score: ' + susScore.toFixed(2);
+        }
+    </script>
+
+</body>
+</html>
