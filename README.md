@@ -377,9 +377,15 @@ Protótipo High Fi - Protótipo Interativo
       <img src="./assets/high-fi/Tela de Cadastro Error.png" height="350px" alt="Label form error Page">
    </div>
 
-# Avaliação Heurística de Nielson e SUS
+# Avaliação Heurística de Nielsen e SUS
 
-🚧  Em desenvolvimento . . .
+Para acessar o relatório de Nielsen, você deverá acessar esse link: https://github.com/Anndrei87/FeriasPet/blob/main/assets/relatorio-nielsen/A3%20Nielsen.pdf
+O link acima é um pdf que está localizado na pasta assets na raiz do projeto.
+
+O relatório SUS, fizemos um html com uma tabela onde é possivel o usuário interagir dando notas e calculando a media. O html foi hospedado no github pages, um serviço
+gratuito de hospedagem do github. 
+
+Link do relatório SUS: https://anndrei87.github.io/FeriasPet/SUS/principal.html
 
 # Licença
 
@@ -387,7 +393,11 @@ Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.m
 
 # Agradecimentos
 
-🚧  Em desenvolvimento . . .
+Este projeto foi um desafio e uma oportunidade de aprendizado. Aprendemos muito sobre o tema escolhido e sobre o processo de desenvolvimento de um projeto.
+Agradeço por todos os envolvidos de equipe pelo trabalho árduo e dedicação. Juntos, conseguimos superar os desafios e entregar um projeto de alta qualidade.
+Agradeço também aos nossos professores pela orientação e apoio. Eles nos ajudaram a desenvolver nossas habilidades e a alcançar nossos objetivos.
+
+A conclusão deste projeto é um marco importante na vida acadêmica dos integrantes da equipe. Estamos orgulhosos do trabalho que realizamos e estamos confiante de que este aprendizado será valioso para a nossa carreira profissional.
 
 # Considerações Finais
 
