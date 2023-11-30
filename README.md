@@ -303,6 +303,14 @@ Abaixo será listado os RNFs do projeto:
 	<span> Feito por Daniel Souza 👋! </span> 
 </div>
 &nbsp;
+<div> 
+	<a href="https://github.com/Azaff" style="text-decoration: none;">
+		<img style="border-radius: 50%;" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/125218352?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d"/>
+		<br />
+	</a> 
+	<span> Feito por Leonardo Ferreira 👋! </span> 
+</div>
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
