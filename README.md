@@ -286,7 +286,7 @@ Marina Oliveira
 	8.	Encontra um hotel que aceita e tem um veterinário ao lado. Além de ter 5 estrelas
 	9.	Então segue para iniciar a reserva no site do hotel.
 
-Bruna
+Bruna Alves
 
 	Estar precisando de um hotel que aceite seus dois pets, ela quer viajar para chapada diamantina, já entende muito bem como funciona viajar com os animais. Mas será a primeira vez utilizando o “Férias pet”
 	1.	Carla encontrou o “férias pet” através de um anuncio do Instagram 
@@ -298,7 +298,7 @@ Bruna
 	7.	Encontra um hotel que aceita
 	8.	Então segue para iniciar a reserva no site do hotel.
 
-Andrea
+Andrea Silva
 
 	Estar precisando de um hotel que aceite seu pet, ela nunca viajou com ele e precisa não só encontrar um hotel, mas também encontrar ajuda para saber o que fazer.
 	1.	Andrea encontrou o “férias pet” através de um anuncio do Instagram 
