@@ -243,11 +243,72 @@ Abaixo será listado os RNFs do projeto:
 
 # Personas
 
-🚧  Em desenvolvimento . . .
+Personas são representações semifictícias de usuários-alvo, baseadas em dados reais sobre comportamento e características demográficas. Elas são usadas no design centrado no usuário para ajudar a garantir que os produtos e serviços sejam projetados para atender às necessidades e expectativas dos usuários.
+
+As personas são criadas a partir de uma combinação de fontes de dados, incluindo pesquisas com usuários, análise de dados demográficos e psicográficos, e entrevistas com stakeholders. Abaixo será apresentado as personas que desenvolvemos para o projeto:
+
+Persona 1:
+   <div>
+      <img src="./assets/personas/persona1.jpeg" width="60%">
+   </div>
+
+Persona 2:
+   <div>
+      <img src="./assets/personas/persona2.jpeg" width="60%">
+   </div>
+
+Persona 3:
+   <div>
+      <img src="./assets/personas/persona3.jpeg" width="60%">
+   </div>
+
+Persona 4:
+   <div>
+      <img src="./assets/personas/persona4.jpeg" width="60%">
+   </div>
 
 # Cenários
 
-🚧  Em desenvolvimento . . .
+Cenários de usabilidade são histórias que descrevem como um usuário pode interagir com um produto ou serviço. Eles são usados para avaliar a usabilidade de um produto ou serviço, identificando possíveis problemas ou pontos de melhoria.
+
+Cenários de usabilidade são uma ferramenta valiosa para o design centrado no usuário. Eles podem ajudar a garantir que os produtos e serviços sejam projetados para atender às necessidades e expectativas dos usuários. Abaixo será apresentado o cenário que desenvolvemos para o projeto:
+
+Marina Oliveira
+	Estar precisando de um hotel que aceite seu buldogue Max, ela ainda não sabe o destino, porque o destino depende dos hotéis pet friendly
+	1.	Marina buscar no google por hotéis que aceitam pet 
+	2.	Nas buscas aparece o “Férias pet”
+	3.	Ela clica e aparece o site que de primeira ela já se interessa e sente confiança, pois as cores azuis e laranja transmitem essa mensagem de confiança e ser amigável.
+	4.	Clica em criar uma conta por ser a primeira vez que acessa o site
+	5.	Insere todos os dados e cria a conta 
+	6.	Faz o login e vai em buscar 
+	7.	Busca por hotéis em vários lugares 
+	8.	Encontra um hotel que aceita e tem um veterinário ao lado. Além de ter 5 estrelas
+	9.	Então segue para iniciar a reserva no site do hotel.
+
+Bruna
+	Estar precisando de um hotel que aceite seus dois pets, ela quer viajar para chapada diamantina, já entende muito bem como funciona viajar com os animais. Mas será a primeira vez utilizando o “Férias pet”
+	1.	Carla encontrou o “férias pet” através de um anuncio do Instagram 
+	2.	Ela clica e aparece o site que de primeira ela também já se interessa e sente confiança.
+	3.	Clica em criar uma conta por ser a primeira vez que acessa o site
+	4.	Insere todos os dados e cria a conta 
+	5.	Faz o login e vai em buscar 
+	6.	Busca por hotéis selecionando o filtro da chapada diamantina 
+	7.	Encontra um hotel que aceita
+	8.	Então segue para iniciar a reserva no site do hotel.
+
+Andrea
+	Estar precisando de um hotel que aceite seu pet, ela nunca viajou com ele e precisa não só encontrar um hotel, mas também encontrar ajuda para saber o que fazer.
+
+	1.	Andrea encontrou o “férias pet” através de um anuncio do Instagram 
+	2.	Ela clica e aparece o site que de primeira ela também já se interessa e sente confiança.
+	3.	Clica em criar uma conta por ser a primeira vez que acessa o site
+	4.	Insere todos os dados e cria a conta 
+	5.	-Faz o login e vai em suporte
+	6.	Seleciona o tipo de animal e consegue todas as dicas e ajudas para sua viagem 
+	7.	Logo após busca por hotéis selecionando o filtro do no seu destino 
+	8.	Encontra um hotel que aceita e que seja perto de um parque porque precisa passear
+	9.	Então segue para iniciar a reserva no site do hotel.
+
 
 # Autores
 <div > 
