@@ -274,6 +274,7 @@ Cenários de usabilidade são histórias que descrevem como um usuário pode int
 Cenários de usabilidade são uma ferramenta valiosa para o design centrado no usuário. Eles podem ajudar a garantir que os produtos e serviços sejam projetados para atender às necessidades e expectativas dos usuários. Abaixo será apresentado o cenário que desenvolvemos para o projeto:
 
 Marina Oliveira
+
 	Estar precisando de um hotel que aceite seu buldogue Max, ela ainda não sabe o destino, porque o destino depende dos hotéis pet friendly
 	1.	Marina buscar no google por hotéis que aceitam pet 
 	2.	Nas buscas aparece o “Férias pet”
@@ -286,6 +287,7 @@ Marina Oliveira
 	9.	Então segue para iniciar a reserva no site do hotel.
 
 Bruna
+
 	Estar precisando de um hotel que aceite seus dois pets, ela quer viajar para chapada diamantina, já entende muito bem como funciona viajar com os animais. Mas será a primeira vez utilizando o “Férias pet”
 	1.	Carla encontrou o “férias pet” através de um anuncio do Instagram 
 	2.	Ela clica e aparece o site que de primeira ela também já se interessa e sente confiança.
@@ -297,8 +299,8 @@ Bruna
 	8.	Então segue para iniciar a reserva no site do hotel.
 
 Andrea
-	Estar precisando de um hotel que aceite seu pet, ela nunca viajou com ele e precisa não só encontrar um hotel, mas também encontrar ajuda para saber o que fazer.
 
+	Estar precisando de um hotel que aceite seu pet, ela nunca viajou com ele e precisa não só encontrar um hotel, mas também encontrar ajuda para saber o que fazer.
 	1.	Andrea encontrou o “férias pet” através de um anuncio do Instagram 
 	2.	Ela clica e aparece o site que de primeira ela também já se interessa e sente confiança.
 	3.	Clica em criar uma conta por ser a primeira vez que acessa o site
