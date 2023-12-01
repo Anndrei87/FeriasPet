@@ -264,7 +264,7 @@ Persona 3:
 
 Persona 4:
    <div>
-      <img src="./assets/personas/persona4.jpeg" width="60%">
+      <img src="./assets/personas/persona4.jpg" width="60%">
    </div>
 
 # Cenários
