@@ -37,22 +37,22 @@ class _HomePageState extends State<HomePage> {
                 Text(provider.indexPage.toString()),
                 const Text('Maria Antonia'),
                 Container(
+                  padding: const EdgeInsets.only(top: 40),
                   child: Row(
+                    crossAxisAlignment: CrossAxisAlignment.center,
+                    mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       TextButton(
-                        onPressed: () {
-                          provider.setValue(1);
-                        },
+                        onPressed: () {},
                         child: ClipRRect(
-                          borderRadius:
-                              const BorderRadius.all(Radius.circular(10)),
+                          borderRadius: const BorderRadius.all(Radius.circular(10)),
                           child: Container(
                             alignment: Alignment.center,
-                            width: 74,
-                            height: 40,
+                            width: 100,
+                            height: 100,
                             color: const Color(0xffF4981D),
                             child: const Text(
-                              "Salvar",
+                              "Buscar",
                               style: TextStyle(
                                 fontSize: 16,
                                 color: Colors.white,
@@ -64,15 +64,14 @@ class _HomePageState extends State<HomePage> {
                       TextButton(
                         onPressed: () {},
                         child: ClipRRect(
-                          borderRadius:
-                              const BorderRadius.all(Radius.circular(10)),
+                          borderRadius: const BorderRadius.all(Radius.circular(10)),
                           child: Container(
                             alignment: Alignment.center,
-                            width: 74,
-                            height: 40,
+                            width: 100,
+                            height: 100,
                             color: const Color(0xffF4981D),
                             child: const Text(
-                              "Salvar",
+                              "Perfil",
                               style: TextStyle(
                                 fontSize: 16,
                                 color: Colors.white,
@@ -84,15 +83,14 @@ class _HomePageState extends State<HomePage> {
                       TextButton(
                         onPressed: () {},
                         child: ClipRRect(
-                          borderRadius:
-                              const BorderRadius.all(Radius.circular(10)),
+                          borderRadius: const BorderRadius.all(Radius.circular(10)),
                           child: Container(
                             alignment: Alignment.center,
-                            width: 74,
-                            height: 40,
+                            width: 100,
+                            height: 100,
                             color: const Color(0xffF4981D),
                             child: const Text(
-                              "Salvar",
+                              "Suporte",
                               style: TextStyle(
                                 fontSize: 16,
                                 color: Colors.white,
@@ -103,6 +101,50 @@ class _HomePageState extends State<HomePage> {
                       ),
                     ],
                   ),
+                ),
+                Padding(
+                  padding: const EdgeInsets.only(left: 25, right: 25, top: 120),
+                  child: ClipRRect(
+                    borderRadius: const BorderRadius.all(Radius.circular(10)),
+                    child: Container(
+                      color: const Color(0xff1D5FB6),
+                      width: double.maxFinite,
+                      height: 200,
+                      child: Column(
+                        children: [
+                          const Padding(
+                            padding: EdgeInsets.symmetric(vertical: 10),
+                            child: Text('asdsad asdas dasd as'),
+                          ),
+                          Padding(
+                            padding: const EdgeInsets.symmetric(horizontal: 20),
+                            child: Row(
+                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                              children: [
+                                Container(
+                                  width: 120,
+                                  height: 120,
+                                  color: Colors.red,
+                                ),
+                                Text('asdasda sda sdasd asd')
+                              ],
+                            ),
+                          )
+                        ],
+                      ),
+                    ),
+                  ),
+                ),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    ...List.generate(
+                      8,
+                      (index) => Text(
+                        index.toString(),
+                      ),
+                    ),
+                  ],
                 )
               ],
             ),
