@@ -54,6 +54,8 @@ class ConstantsApp {
     4,
     ['cachorro', 'gato', 'papagaio'],
   );
+  static String suportDescription =
+      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In dolor massa, porta nec malesuada et, cursus cursus mi. Cras posuere consequat tellus, vel fringilla quam sollicitudin ac. Fusce vehicula odio vitae lacus rhoncus, in pulvinar urna auctor. Quisque nisi dolor, laoreet in sodales eleifend, porttitor vel arcu. Maecenas rutrum, dui a efficitur tincidunt, erat justo fringilla eros, euismod finibus quam est et felis. Ut quis nibh a mi dignissim pulvinar id at urna. Aenean auctor purus ipsum, vitae varius tellus laoreet ut. Sed arcu nisl, condimentum a eleifend a, faucibus ac felis. Nullam a velit eget erat lobortis faucibus mollis non diam.';
   static String textSlide =
       'Tenha à mão as informações de contato do local e quaisquer informações de emergercia relacionadas ao cuidado de animais de estimação, caso surja uma situação inesperada';
 }

@@ -1,6 +1,7 @@
 import 'package:ferias_pet/src/modules/home/home_page.dart';
 import 'package:ferias_pet/src/modules/profile/profile_page.dart';
 import 'package:ferias_pet/src/modules/search/search_page.dart';
+import 'package:ferias_pet/src/modules/suport/suport_page.dart';
 import 'package:ferias_pet/src/providers/app_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -17,7 +18,7 @@ class _HostMainPageState extends State<HostMainPage> {
     const HomePage(),
     const ProfilePage(),
     const SearchPage(),
-    const Scaffold(),
+    const SuportPage(),
   ];
 
   void _onItemTapped(int index) {

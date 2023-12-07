@@ -89,7 +89,9 @@ class _HomePageState extends State<HomePage> {
                         ),
                       ),
                       TextButton(
-                        onPressed: () {},
+                        onPressed: () {
+                          provider.setValue(3);
+                        },
                         child: ClipRRect(
                           borderRadius:
                               const BorderRadius.all(Radius.circular(10)),

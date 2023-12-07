@@ -4,11 +4,11 @@ class TextFormCustom extends StatelessWidget {
   const TextFormCustom(
       {super.key,
       required this.label,
-      required this.urlIcon,
+      this.urlIcon,
       required this.hintText,
       required this.padding});
   final String label;
-  final String urlIcon;
+  final String? urlIcon;
   final String hintText;
   final double padding;
 
@@ -47,9 +47,10 @@ class TextFormCustom extends StatelessWidget {
               ),
             ),
             Positioned(
-                top: 12,
-                left: MediaQuery.of(context).size.width * .7,
-                child: Image.asset(urlIcon))
+              top: 12,
+              left: MediaQuery.of(context).size.width * .7,
+              child: urlIcon != null ? Image.asset(urlIcon!) : const SizedBox(),
+            )
           ],
         ),
       ),
