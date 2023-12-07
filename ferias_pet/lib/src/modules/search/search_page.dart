@@ -1,5 +1,7 @@
 import 'package:ferias_pet/src/modules/search/widgets/list_component.dart';
+import 'package:ferias_pet/src/providers/app_provider.dart';
 import 'package:flutter/material.dart';
+import 'package:provider/provider.dart';
 
 class SearchPage extends StatefulWidget {
   const SearchPage({super.key});
@@ -12,10 +14,10 @@ class _SearchPageState extends State<SearchPage> {
   @override
   Widget build(BuildContext context) {
     const List<String> list = <String>[
-      'Salvador - BA',
-      'São Paulo - SP',
-      'Rio de Janeiro - RJ',
-      'Distrito Federal - DF'
+      'Salvador-BA',
+      'São Paulo-SP',
+      'Rio de Janeiro-RJ',
+      'Distrito Federal-DF'
     ];
     return SafeArea(
         child: Scaffold(
@@ -23,15 +25,24 @@ class _SearchPageState extends State<SearchPage> {
         actions: <Widget>[
           IconButton(
             icon: const Icon(Icons.person_2_outlined),
-            onPressed: () {},
+            onPressed: () {
+              context.read<AppProvider>().setValue(1);
+            },
           ),
         ],
       ),
       body: SingleChildScrollView(
         child: Column(
           children: [
-            const Text(
-              'Selecione a cidade de destino',
+            const Align(
+              alignment: Alignment.centerLeft,
+              child: Padding(
+                padding: EdgeInsets.only(left: 20, bottom: 10),
+                child: Text(
+                  'Selecione a cidade de destino:',
+                  style: TextStyle(fontWeight: FontWeight.bold),
+                ),
+              ),
             ),
             Padding(
               padding: const EdgeInsets.only(left: 10, right: 10),

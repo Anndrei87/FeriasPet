@@ -20,7 +20,9 @@ class _HomePageState extends State<HomePage> {
             actions: <Widget>[
               IconButton(
                 icon: const Icon(Icons.person_2_outlined),
-                onPressed: () {},
+                onPressed: () {
+                  context.read<AppProvider>().setValue(1);
+                },
               ),
             ],
           ),
@@ -43,7 +45,9 @@ class _HomePageState extends State<HomePage> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
                       TextButton(
-                        onPressed: () {},
+                        onPressed: () {
+                          context.read<AppProvider>().setValue(2);
+                        },
                         child: ClipRRect(
                           borderRadius:
                               const BorderRadius.all(Radius.circular(10)),

@@ -13,55 +13,63 @@ class CardResult extends StatelessWidget {
   Widget build(BuildContext context) {
     return Stack(children: [
       Container(
-        padding: const EdgeInsets.all(20),
-        height: 160,
+        padding: const EdgeInsets.all(10),
+        height: 180,
         color: const Color(0xff83A1BB),
-        child: Center(
-          child: Container(
+        child: Container(
+          padding: const EdgeInsets.all(10),
+          color: const Color(0xffD2DFE7),
+          child: Center(
             child: Row(
               mainAxisAlignment: MainAxisAlignment.start,
               children: [
-                Container(
+                SizedBox(
                   width: 120,
                   height: 130,
-                  color: Colors.black,
+                  child: Image.asset(
+                    modelHotel.urlCapa,
+                    fit: BoxFit.contain,
+                  ),
                 ),
                 const SizedBox(
                   width: 10,
                 ),
                 Padding(
-                  padding: EdgeInsets.only(top: 25),
+                  padding: const EdgeInsets.only(top: 25),
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
                         modelHotel.name,
-                        style: TextStyle(
+                        style: const TextStyle(
                             fontSize: 18, fontWeight: FontWeight.w500),
                       ),
                       Row(
                         children: [
-                          Text('4',
-                              style: TextStyle(
+                          Text(modelHotel.qtdStars.toString(),
+                              style: const TextStyle(
                                   fontSize: 18, fontWeight: FontWeight.w500)),
-                          SizedBox(width: 5),
-                          Icon(
-                            Icons.star,
-                            color: Colors.yellow,
-                            size: 15,
+                          const SizedBox(width: 5),
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.center,
+                            children: [
+                              ...List.generate(
+                                  5,
+                                  (index) => Icon(Icons.star,
+                                      color: index < modelHotel.qtdStars
+                                          ? Colors.yellow
+                                          : Colors.brown,
+                                      size: 15)),
+                            ],
                           ),
-                          Icon(Icons.star, color: Colors.yellow, size: 15),
-                          Icon(Icons.star, color: Colors.yellow, size: 15),
-                          Icon(Icons.star, color: Colors.yellow, size: 15),
-                          Icon(Icons.star, color: Colors.white, size: 15),
-                          SizedBox(width: 5),
-                          Text('(10 mil)',
-                              style: TextStyle(
+                          const SizedBox(width: 5),
+                          Text('(${modelHotel.qtdComents.toString()})',
+                              style: const TextStyle(
                                   fontSize: 18, fontWeight: FontWeight.w500)),
                         ],
                       ),
-                      Text('Hotel 4 estrelas',
-                          style: TextStyle(
+                      Text('Hotel ${modelHotel.qtdStars.toString()} estrelas',
+                          style: const TextStyle(
                               fontSize: 18, fontWeight: FontWeight.w500)),
                     ],
                   ),

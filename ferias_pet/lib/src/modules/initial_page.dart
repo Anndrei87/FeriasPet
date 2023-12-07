@@ -29,7 +29,6 @@ class _HostMainPageState extends State<HostMainPage> {
   @override
   Widget build(BuildContext context) {
     return Consumer<AppProvider>(builder: (_, provider, __) {
-      print(provider.indexPage);
       return Scaffold(
         body: Center(
           child: _widgetOptions.elementAt(provider.indexPage),
