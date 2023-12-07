@@ -1,5 +1,6 @@
 import 'package:ferias_pet/src/modules/home/home_page.dart';
 import 'package:ferias_pet/src/modules/profile/profile_page.dart';
+import 'package:ferias_pet/src/modules/search/search_page.dart';
 import 'package:ferias_pet/src/providers/app_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -15,7 +16,7 @@ class _HostMainPageState extends State<HostMainPage> {
   static final List<Widget> _widgetOptions = <Widget>[
     const HomePage(),
     const ProfilePage(),
-    const Scaffold(),
+    const SearchPage(),
     const Scaffold(),
   ];
 

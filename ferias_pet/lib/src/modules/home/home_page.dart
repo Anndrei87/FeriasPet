@@ -1,3 +1,4 @@
+import 'package:ferias_pet/src/core/constants/constants.dart';
 import 'package:ferias_pet/src/providers/app_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -34,7 +35,6 @@ class _HomePageState extends State<HomePage> {
                     height: 75,
                   ),
                 ),
-                Text(provider.indexPage.toString()),
                 const Text('Maria Antonia'),
                 Container(
                   padding: const EdgeInsets.only(top: 40),
@@ -45,7 +45,8 @@ class _HomePageState extends State<HomePage> {
                       TextButton(
                         onPressed: () {},
                         child: ClipRRect(
-                          borderRadius: const BorderRadius.all(Radius.circular(10)),
+                          borderRadius:
+                              const BorderRadius.all(Radius.circular(10)),
                           child: Container(
                             alignment: Alignment.center,
                             width: 100,
@@ -62,9 +63,12 @@ class _HomePageState extends State<HomePage> {
                         ),
                       ),
                       TextButton(
-                        onPressed: () {},
+                        onPressed: () {
+                          provider.setValue(1);
+                        },
                         child: ClipRRect(
-                          borderRadius: const BorderRadius.all(Radius.circular(10)),
+                          borderRadius:
+                              const BorderRadius.all(Radius.circular(10)),
                           child: Container(
                             alignment: Alignment.center,
                             width: 100,
@@ -83,7 +87,8 @@ class _HomePageState extends State<HomePage> {
                       TextButton(
                         onPressed: () {},
                         child: ClipRRect(
-                          borderRadius: const BorderRadius.all(Radius.circular(10)),
+                          borderRadius:
+                              const BorderRadius.all(Radius.circular(10)),
                           child: Container(
                             alignment: Alignment.center,
                             width: 100,
@@ -102,19 +107,36 @@ class _HomePageState extends State<HomePage> {
                     ],
                   ),
                 ),
+                const Padding(
+                  padding:
+                      EdgeInsets.only(left: 15, right: 10, top: 60, bottom: 10),
+                  child: Align(
+                    alignment: Alignment.centerLeft,
+                    child: Text(
+                      'Dicas e informações',
+                      style: TextStyle(fontSize: 16),
+                    ),
+                  ),
+                ),
                 Padding(
-                  padding: const EdgeInsets.only(left: 25, right: 25, top: 120),
+                  padding: const EdgeInsets.only(left: 10, right: 10),
                   child: ClipRRect(
                     borderRadius: const BorderRadius.all(Radius.circular(10)),
                     child: Container(
                       color: const Color(0xff1D5FB6),
                       width: double.maxFinite,
-                      height: 200,
+                      height: 230,
                       child: Column(
                         children: [
                           const Padding(
                             padding: EdgeInsets.symmetric(vertical: 10),
-                            child: Text('asdsad asdas dasd as'),
+                            child: Text(
+                              'Informações de Contato Emergencial',
+                              style: TextStyle(
+                                fontSize: 17,
+                                color: Colors.white,
+                              ),
+                            ),
                           ),
                           Padding(
                             padding: const EdgeInsets.symmetric(horizontal: 20),
@@ -122,11 +144,25 @@ class _HomePageState extends State<HomePage> {
                               mainAxisAlignment: MainAxisAlignment.spaceBetween,
                               children: [
                                 Container(
-                                  width: 120,
-                                  height: 120,
-                                  color: Colors.red,
+                                  child: Image.asset(
+                                    'assets/img-veterinarian.png',
+                                    width: 120,
+                                    height: 150,
+                                  ),
                                 ),
-                                Text('asdasda sda sdasd asd')
+                                const SizedBox(
+                                  width: 20,
+                                ),
+                                Expanded(
+                                  child: Text(
+                                    ConstantsApp.textSlide,
+                                    textAlign: TextAlign.start,
+                                    style: const TextStyle(
+                                      fontSize: 13,
+                                      color: Colors.white,
+                                    ),
+                                  ),
+                                )
                               ],
                             ),
                           )
@@ -139,11 +175,19 @@ class _HomePageState extends State<HomePage> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     ...List.generate(
-                      8,
-                      (index) => Text(
-                        index.toString(),
-                      ),
-                    ),
+                        7,
+                        (index) => Padding(
+                              padding: const EdgeInsets.only(top: 5, right: 5),
+                              child: ClipRRect(
+                                borderRadius: BorderRadius.circular(50),
+                                child: Container(
+                                  width: 8,
+                                  height: 8,
+                                  color:
+                                      index != 3 ? Colors.black : Colors.white,
+                                ),
+                              ),
+                            )),
                   ],
                 )
               ],
