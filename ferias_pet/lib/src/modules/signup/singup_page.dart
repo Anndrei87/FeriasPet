@@ -1,10 +1,6 @@
 import 'package:ferias_pet/src/components/text_field_custom_widget.dart';
-import 'package:ferias_pet/src/modules/initial_page.dart';
 import 'package:ferias_pet/src/modules/login/login_page.dart';
-import 'package:ferias_pet/src/modules/search/widgets/list_component.dart';
-import 'package:ferias_pet/src/providers/app_provider.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 
 class SingUpPage extends StatefulWidget {
   const SingUpPage({super.key});
