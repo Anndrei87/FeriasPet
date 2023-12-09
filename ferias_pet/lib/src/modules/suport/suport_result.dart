@@ -46,7 +46,7 @@ class SuportResult extends StatelessWidget {
                     Image.asset('assets/img-dog-suport.png')
                   ],
                 ),
-                SizedBox(height: 20),
+                const SizedBox(height: 20),
                 ClipRRect(
                   borderRadius: BorderRadius.circular(10),
                   child: Container(
@@ -59,16 +59,16 @@ class SuportResult extends StatelessWidget {
                         child: Column(
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
-                            Text(
+                            const Text(
                               'Lorem lorem lorem lorem lorem lorem lorem',
                               style: TextStyle(
                                   color: Color(0xff1D5FB6),
                                   fontWeight: FontWeight.bold),
                             ),
-                            SizedBox(height: 20),
+                            const SizedBox(height: 20),
                             Text(
                               ConstantsApp.suportDescription,
-                              style: TextStyle(
+                              style: const TextStyle(
                                   fontSize: 16,
                                   fontWeight: FontWeight.bold,
                                   color: Colors.white),

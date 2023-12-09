@@ -12,7 +12,7 @@ class ListContainerComponent extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
         padding: const EdgeInsets.only(left: 12, right: 12, top: 10),
-        height: 550,
+        height: 555,
         child: ListView.builder(
             itemCount: ConstantsApp.listMock.length,
             scrollDirection: Axis.vertical,

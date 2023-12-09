@@ -1,6 +1,8 @@
 import 'package:ferias_pet/src/core/constants/constants.dart';
 import 'package:ferias_pet/src/components/text_field_custom_widget.dart';
 import 'package:ferias_pet/src/modules/initial_page.dart';
+import 'package:ferias_pet/src/modules/recovery-password/recovery_password_page.dart';
+import 'package:ferias_pet/src/modules/signup/singup_page.dart';
 import 'package:ferias_pet/src/providers/app_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -49,14 +51,28 @@ class LoginPage extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     TextButton(
-                      onPressed: () {},
+                      onPressed: () {
+                        Navigator.pushReplacement(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const SingUpPage(),
+                          ),
+                        );
+                      },
                       child: Text(
                         'Cadastre-se',
                         style: TextStyle(color: Colors.grey[600]),
                       ),
                     ),
                     TextButton(
-                      onPressed: () {},
+                      onPressed: () {
+                        Navigator.pushReplacement(
+                          context,
+                          MaterialPageRoute(
+                            builder: (context) => const RecoveryPasswordPage(),
+                          ),
+                        );
+                      },
                       child: Text(
                         'Esqueceu a senha?',
                         style: TextStyle(color: Colors.grey[600]),

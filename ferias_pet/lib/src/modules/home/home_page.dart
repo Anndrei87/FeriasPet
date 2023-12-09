@@ -1,4 +1,5 @@
 import 'package:ferias_pet/src/core/constants/constants.dart';
+import 'package:ferias_pet/src/modules/favorites/favorite_page.dart';
 import 'package:ferias_pet/src/providers/app_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
@@ -19,9 +20,16 @@ class _HomePageState extends State<HomePage> {
           appBar: AppBar(
             actions: <Widget>[
               IconButton(
-                icon: const Icon(Icons.person_2_outlined),
+                icon: const Icon(
+                  Icons.favorite,
+                  color: Colors.red,
+                ),
                 onPressed: () {
-                  context.read<AppProvider>().setValue(1);
+                  Navigator.push(
+                    _,
+                    MaterialPageRoute(
+                        builder: (context) => const FavoritePage()),
+                  );
                 },
               ),
             ],
@@ -149,12 +157,10 @@ class _HomePageState extends State<HomePage> {
                             child: Row(
                               mainAxisAlignment: MainAxisAlignment.spaceBetween,
                               children: [
-                                Container(
-                                  child: Image.asset(
-                                    'assets/img-veterinarian.png',
-                                    width: 120,
-                                    height: 150,
-                                  ),
+                                Image.asset(
+                                  'assets/img-veterinarian.png',
+                                  width: 120,
+                                  height: 150,
                                 ),
                                 const SizedBox(
                                   width: 20,
