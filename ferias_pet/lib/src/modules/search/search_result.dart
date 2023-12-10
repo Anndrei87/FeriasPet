@@ -121,29 +121,61 @@ class _SearchResultState extends State<SearchResult> {
                               ),
                             ),
                           ),
-                          Align(
-                            alignment: Alignment.centerRight,
-                            child: TextButton(
-                              onPressed: () {},
-                              child: ClipRRect(
-                                borderRadius:
-                                    const BorderRadius.all(Radius.circular(10)),
-                                child: Container(
-                                  alignment: Alignment.center,
-                                  width: 120,
-                                  height: 50,
-                                  color: const Color(0xff1D5FB6),
-                                  child: const Text(
-                                    'Agendar',
-                                    textAlign: TextAlign.center,
-                                    style: TextStyle(
-                                      fontSize: 16,
-                                      color: Colors.white,
+                          Row(
+                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                            children: [
+                              Align(
+                                alignment: Alignment.centerRight,
+                                child: TextButton(
+                                  onPressed: () {},
+                                  child: ClipRRect(
+                                    borderRadius: const BorderRadius.all(
+                                        Radius.circular(10)),
+                                    child: Container(
+                                      alignment: Alignment.center,
+                                      width: 120,
+                                      height: 50,
+                                      color: const Color(0xff1D5FB6),
+                                      child: const Text(
+                                        'Favoritar',
+                                        textAlign: TextAlign.center,
+                                        style: TextStyle(
+                                          fontSize: 16,
+                                          color: Colors.white,
+                                        ),
+                                      ),
                                     ),
                                   ),
                                 ),
                               ),
-                            ),
+                              SizedBox(
+                                width: 10,
+                              ),
+                              Align(
+                                alignment: Alignment.centerRight,
+                                child: TextButton(
+                                  onPressed: () {},
+                                  child: ClipRRect(
+                                    borderRadius: const BorderRadius.all(
+                                        Radius.circular(10)),
+                                    child: Container(
+                                      alignment: Alignment.center,
+                                      width: 120,
+                                      height: 50,
+                                      color: const Color(0xff1D5FB6),
+                                      child: const Text(
+                                        'Agendar',
+                                        textAlign: TextAlign.center,
+                                        style: TextStyle(
+                                          fontSize: 16,
+                                          color: Colors.white,
+                                        ),
+                                      ),
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            ],
                           ),
                         ],
                       ),
