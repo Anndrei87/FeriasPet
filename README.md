@@ -32,7 +32,7 @@ o sucesso e a eficiência desses negócios.
 * [Cenários](#cenários)
 * [Autores](#autores)
 * [Protótipos](#protótipos)
-* [Protótipo Real - Extra](#Protótipo-Real-Extra)
+* [Protótipo Extra](#Protótipo-Extra)
 * [Avaliação Heurística de Nielson e SUS](#Avaliação-Heurística-de-Nielson-e-SUS)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
@@ -449,7 +449,7 @@ Protótipo High Fi - Protótipo Interativo
       <img src="./assets/high-fi/Tela de Cadastro Error.png" height="350px" alt="Label form error Page">
    </div>
 
-# Protótipo Real - Extra
+# Protótipo Extra
 Para o protótipo real da aplicação, usamos Flutter, um framework do google que usa Dart para criar aplicações multiplataformas. Adicionamos um link de um video que mostra a navegação do app.
 E o código se encontra na raiz desse projeto.
 
