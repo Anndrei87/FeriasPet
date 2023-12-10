@@ -32,7 +32,7 @@ o sucesso e a eficiência desses negócios.
 * [Cenários](#cenarios)
 * [Autores](#autores)
 * [Protótipos](#prototipos)
-* [Protótipo Real - Extra](#protótipo-real-extra)
+* [Protótipo Real - Extra](#Protótipo-Real-Extra)
 * [Avaliação Heurística de Nielson e SUS](#Avaliação-Heurística-de-Nielson-e-SUS)
 * [Licença](#licença)
 * [Agradecimentos](#agradecimentos)
