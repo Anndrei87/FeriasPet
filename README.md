@@ -453,6 +453,8 @@ Protótipo High Fi - Protótipo Interativo
 Para o protótipo real da aplicação, usamos Flutter, um framework do google que usa Dart para criar aplicações multiplataformas. Adicionamos um link de um video que mostra a navegação do app.
 E o código se encontra na raiz desse projeto.
 
+Link da apresentação do projeto: https://youtu.be/WwpEpIu3bv0
+
 # Avaliação Heurística de Nielsen e SUS
 
 Para acessar o relatório de Nielsen, você deverá acessar esse link: https://github.com/Anndrei87/FeriasPet/blob/main/assets/relatorio-nielsen/A3%20Nielsen.pdf
