@@ -29,7 +29,7 @@ o sucesso e a eficiência desses negócios.
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Requisitos Não Funcionais](#Requisitos-Não-Funcionais)
 * [Personas](#personas)
-* [Cenários](#cenarios)
+* [Cenários](#cenários)
 * [Autores](#autores)
 * [Protótipos](#prototipos)
 * [Protótipo Real - Extra](#Protótipo-Real-Extra)
